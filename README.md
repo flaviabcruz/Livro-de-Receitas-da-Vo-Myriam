@@ -3,3 +3,6 @@
 
 
 ### Este é um projeto para guardar perenemente as receitas da minha vó!
+
+- Ambrosia
+- Bolo de Fubá
